@@ -1,0 +1,3 @@
+[submodule "blatt01/Aufgabe-git/gitquest"]
+	path = blatt01/Aufgabe-git/gitquest
+	url = https://github.com/nibbu2822/gitquest.git
