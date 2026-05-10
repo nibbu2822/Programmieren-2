@@ -4,3 +4,6 @@
 [submodule "blatt02/Git-Spiel/gitquest2"]
 	path = blatt02/Git-Spiel/gitquest2
 	url = https://github.com/nibbu2822/gitquest-b02.git
+[submodule "blatt02/Katzen-Cafe/catcafe_b02"]
+	path = blatt02/Katzen-Cafe/catcafe_b02
+	url = https://github.com/nibbu2822/catcafe_b02.git
