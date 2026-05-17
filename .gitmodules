@@ -7,3 +7,9 @@
 [submodule "blatt02/Git-Spiel/gitquest02"]
 	path = blatt02/Git-Spiel/gitquest02
 	url = https://github.com/nibbu2822/gitquest02.git
+[submodule "blatt03/calculator/prog2_ybel_calculator"]
+	path = blatt03/calculator/prog2_ybel_calculator
+	url = https://github.com/nibbu2822/prog2_ybel_calculator.git
+[submodule "blatt03/snake/prog2_ybel_locksnake"]
+	path = blatt03/snake/prog2_ybel_locksnake
+	url = https://github.com/nibbu2822/prog2_ybel_locksnake.git
